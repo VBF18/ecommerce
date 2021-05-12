@@ -15,7 +15,7 @@
 					<li><img src="./res/site/img/h4-slide2.png" alt="Slide">
 						<div class="caption-group">
 							<h2 class="caption title">
-								by one, get one <span class="primary">50% <strong>off</strong></span>
+								buy one, get one <span class="primary">50% <strong>off</strong></span>
 							</h2>
 							<h4 class="caption subtitle">school supplies & backpacks.*</h4>
 							<a class="caption button-radius" href="#"><span class="icon"></span>Comprar</a>
